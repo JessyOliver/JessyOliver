@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 -->
 # *Olá, eu sou Jessica Oliver👋*
 
+<a href="https://www.linkedin.com/in/jessica-f-oliveira-330b091a5/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cplusplus" width="12%" height="4%" style="max-width:100%;">
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=great-gatsby)
 
