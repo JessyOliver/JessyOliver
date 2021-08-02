@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/JessyOliver/JessyOliver/blob/edicao/cobra.svg)
 
 <div style="display: inline_block">
-<h1> Olá, eu sou Jessica Oliver👋 </h1>
-     <img  align="right" alt="Jessica" width="20%" height="20%" src="https://github.com/JessyOliver/JessyOliver/blob/edicao/Webp.net-gifmaker%20(2).gif">
+    <h1> Olá, eu sou Jessica Oliver👋 </h1>
+   <img  align="right" alt="Jessica" width="20%" height="20%" src="https://github.com/JessyOliver/JessyOliver/blob/edicao/Webp.net-gifmaker%20(2).gif">
 
 </div>
 
