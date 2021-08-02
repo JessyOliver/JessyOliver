@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="120" alt="*Obrigada pela visita, volte sempre!!!*" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<img height="120" alt="*Obrigada pela visita, volte sempre!!!*" width="100%" src="https://github.com/JessyOliver/JessyOliver/blob/edicao/textomovendo.svg" />
 <br />
