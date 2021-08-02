@@ -13,32 +13,53 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# *Olá, eu sou Jessica Oliver👋*
-## REDE SOCIAL 
+![Snake animation](https://github.com/JessyOliver/JessyOliver/blob/edicao/cobra.svg)
+
+<div style="display: inline_block">
+<h1> Olá, eu sou Jessica Oliver👋 </h1>
+     <img  align="right" alt="Jessica" width="20%" height="20%" src="https://github.com/JessyOliver/JessyOliver/blob/edicao/Webp.net-gifmaker%20(2).gif">
+
+</div>
+
+<div style="display: inline_block"><br>
+
+<h2>REDE SOCIAL</h2> 
 <a href="https://www.linkedin.com/in/jessica-f-oliveira-330b091a5/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cplusplus" width="12%" height="4%" style="max-width:100%;">
 </a>
-
-## &#9997; LINGUAGENS DE ESTUDOS
-<!-- imagem html 5-->
-
-
-<!---->
-<div style="display: inline_block">
-  
-  <img align="center" alt="Js" height="5%" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="5%" width="5%" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" height="5%" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="5%" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
 </div>
+
 <!---->
- ESTASTISTICAS
+<div style="display: flex"><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=great-gatsby)
+  <h2> &#9997; LINGUAGENS DE ESTUDOS 👩‍💻</h2>
+  
+  <!-- imagem Java-->
+  <img align="center" alt="Java" height="5%" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <!-- imagem Java Script-->
+  <img align="center" alt="Js" height="5%" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!-- imagem html 5-->
+  <img align="center" alt="HTML" height="5%" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <!-- imagem CSS-->
+  <img align="center" alt="CSS" height="5%" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
+</div>
 
+<!-- status da conta-->
+<div style="display: flex"><br>
+  
+  <h2>STATUS DE USO DO GITHUB</h2> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/jessyoliver">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessyoliver&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessyoliver&show_icons=true&layout=compact&theme=great-gatsby"/>
+</div>
+  
+ <!--Texto de agradecimento-->
 
-<img height="120" alt="*Obrigada pela visita, volte sempre!!!*" width="100%" src="https://github.com/JessyOliver/JessyOliver/blob/edicao/textomovendo.svg" />
-<br />
+<div style="display: inline_block">
+  <img height="120" alt="*Obrigada pela visita, volte sempre!!!*" width="100%" src="https://github.com/JessyOliver/JessyOliver/blob/edicao/textomovendo.svg" />
+</div>
+
+  
+  
