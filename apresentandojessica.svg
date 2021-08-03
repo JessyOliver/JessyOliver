@@ -23,7 +23,7 @@
                 .loading {
 
                     font-family: 'Orbitron', sans-serif;
-                    font-size: 120%;
+                    font-size: 150%;
                     color: #daa520;
                    
                     <!-- animation: blink 0.9s ease-in-out infinite; -->
