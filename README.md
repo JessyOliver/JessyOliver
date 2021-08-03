@@ -15,16 +15,16 @@ Here are some ideas to get you started:
  <h1 style='color:red'> Olá, eu sou Jessica Oliver👋 </h1> 
 https://github.com/hideraldus13/github-emoji
 -->
-![Snake animation](https://github.com/JessyOliver/JessyOliver/blob/edicao/cobra.svg)
+![Snake animation](https://github.com/JessyOliver/JessyOliver/blob/main/cobra.svg)
 
 <!--Texto de ola-->
 <div style="display: inline_block">
-  <img height="120" alt="*Olá, eu sou a Jessica Oliver!!!*" width="100%" src="https://github.com/JessyOliver/JessyOliver/blob/edicao/apresentandojessica.svg" />
+  <img height="120" alt="*Olá, eu sou a Jessica Oliver!!!*" width="100%" src="https://github.com/JessyOliver/JessyOliver/blob/main/apresentandojessica.svg" />
 </div>
 
 <div style="display: inline_block">
   
-   <img  align="right" alt="Jessica" width="20%" height="20%" src="https://github.com/JessyOliver/JessyOliver/blob/edicao/Webp.net-gifmaker%20(2).gif">
+   <img  align="right" alt="Jessica" width="20%" height="20%" src="https://github.com/JessyOliver/JessyOliver/blob/main/Webp.net-gifmaker%20(2).gif">
 
 </div>
 
@@ -73,7 +73,7 @@ https://github.com/hideraldus13/github-emoji
   
 <!--Texto de agradecimento-->
 <div style="display: inline_block">
-  <img height="120" alt="*Obrigada pela visita, volte sempre!!!*" width="100%" src="https://github.com/JessyOliver/JessyOliver/blob/edicao/textomovendo.svg" />
+  <img height="120" alt="*Obrigada pela visita, volte sempre!!!*" width="100%" src="https://github.com/JessyOliver/JessyOliver/blob/main/textomovendo.svg" />
 </div>
 
   
