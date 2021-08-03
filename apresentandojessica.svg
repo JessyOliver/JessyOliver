@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="200%" height="200%" x="20%" y="20%"> <!-- width="100%" height="100%" x="20%" y="10%" -->
+<svg fill="none" viewBox="0 0 800 50" width="800" height="500"  xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="500%" height="500%" x="40%" y="-150%" > <!-- width="100%" height="100%" x="20%" y="10%" -->
 		<div xmlns="http://www.w3.org/1999/xhtml" >
 			<style>
         
@@ -26,9 +26,8 @@
                     font-size: 150%;
                     color: #daa520;
                    
-                   
                     <!-- animation: blink 0.9s ease-in-out infinite; -->
-                    animation: blink 1.9s ease-in-out infinite;
+                    animation: blink 2.9s ease-in-out infinite;
                 }
                 @keyframes blink {
                     50% {
@@ -48,12 +47,12 @@
                 <div class="loading" >
 
                     <text>
-                        <tspan > &#128521; Olá, eu sou a Jessica Oliver &#128075; </tspan>
+                        <tspan >  &#128521; Olá, eu sou a Jessica Oliver &#128075; </tspan>
+                        <br/>
+                        <tspan >  &#127881; Seja bem vindo! &#127881;</tspan>
                     </text>
                     
-                    <text>
-                            <tspan fill="green"> &#127881; Seja bem vindo! &#127881;</tspan>
-                    </text>
+                    
 
                 </div>
               
