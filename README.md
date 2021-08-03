@@ -50,8 +50,6 @@ https://github.com/hideraldus13/github-emoji
   <!-- imagem Spring--> 
   <img align="center" alt="Spring Tool" height="10%" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg"/>
   
-  <!-- imagem Spring--> 
-  <img align="center" alt="Spring Tool" height="10%" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//c++-plain.svg"/>
   
   <!-- imagem Java Script-->
   <img align="center" alt="Js" height="10%" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
