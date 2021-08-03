@@ -1,0 +1,65 @@
+<svg fill="none" viewBox="0 0 800 50" width="800" height="80"  xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="500%" height="500%" x="30%" y="0%" > <!-- width="100%" height="100%" x="20%" y="10%" -->
+		<div xmlns="http://www.w3.org/1999/xhtml" >
+			<style>
+        
+                .triangle {
+                    
+                    <!--  stroke-dasharray: 17;
+                        animation: dash 2.5s cubic-bezier(0.35, 0.04, 0.63, 0.95) infinite; -->
+                     stroke-dasharray: 17;
+                     animation: dash 2.5s cubic-bezier(0.35, 0.04, 0.63, 0.95) infinite;
+                     
+
+                }
+
+                @keyframes dash {
+                to {
+                    <!-- stroke-dashoffset: 136; -->
+                    stroke-dashoffset: 136;
+                }
+                }
+
+                .loading {
+
+                    font-family: 'Orbitron', sans-serif;
+                    font-size: 150%;
+                    color: #daa520;
+                   
+                    <!-- animation: blink 0.9s ease-in-out infinite; -->
+                    animation: blink 2.9s ease-in-out infinite;
+                }
+                @keyframes blink {
+                    50% {
+                        opacity: 0;
+                    }
+                }
+               
+
+             </style>
+                <polygon
+                            class="triangle"
+                            fill="none"
+                            stroke="#fff"
+                            stroke-width="1"
+                            points="16,1 32,32 1,32"
+                />
+                <div class="loading" >
+
+                    <text>
+                        <tspan >  &#128521; Olá, eu sou a Jessica Oliver &#128075; </tspan>
+                        <br/>
+                        <tspan >  &#127881; Seja bem vindo! &#127881;</tspan>
+                    </text>
+                    
+                    
+
+                </div>
+              
+
+		</div>
+
+	</foreignObject>
+
+    
+</svg>
