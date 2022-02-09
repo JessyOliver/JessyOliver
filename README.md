@@ -58,6 +58,9 @@ https://github.com/hideraldus13/github-emoji
     
   <!-- imagem CSS-->
   <img align="center" alt="CSS" height="10%" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+ 
+   <img align="center" alt="PYTHON" height="10%" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+
     
 </div>
 
